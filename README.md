@@ -5,8 +5,9 @@
 📌 Project Overview
 Understanding mortality trends isn’t just about data—it’s about lives, public health, and awareness. This dashboard provides key insights into total deaths, trends over time, gender-based disparities, leading causes, and state-level mortality rates.
 
+Dataset can be found here (here) https://www.cdc.gov/nchs/nvss/vsrr/mortality-dashboard.html
 🔗 View the Full Interactive Dashboard
-➡️ Explore the Full Tableau Dashboard Here ⬅️
+➡️ Explore the Full Tableau Dashboard [Here] (https://public.tableau.com/views/UNITED_STATES_MORTALITYRATE2022-2024/Quaterly_Indicators_of_mortality?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) ⬅️
 
 📊 Key Features & Insights
 ✅ Total Number of Deaths Per Quarter – Track fluctuations in mortality.
